@@ -320,3 +320,11 @@ a{
     line-height: 96.4%;
      
 }
+.footer-span{
+    display: flex;
+    gap: 18px;
+}
+.social-svg{
+    display: flex;
+    
+}
